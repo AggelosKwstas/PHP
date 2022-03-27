@@ -1,4 +1,4 @@
-   <h1>Crud Application using Yii2 Framework(Without Gii generator)</h1>
+   <h1>CRUD Application using Yii2 Framework(Without Gii generator)</h1>
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
